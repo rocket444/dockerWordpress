@@ -1,0 +1,6 @@
+wp/
+db_data/
+*.tar.gz
+*.zip
+*.sql
+wp-config.*
